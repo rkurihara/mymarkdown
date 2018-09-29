@@ -2,7 +2,7 @@
   <div id="home">
     <h1>{{msg}}</h1>
     <button>Googleアカウントでログイン</button>
-  <div>
+  </div>
 </template>
         
 <script>
